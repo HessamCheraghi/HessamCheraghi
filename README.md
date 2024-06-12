@@ -4,7 +4,6 @@
 
 - Email: [hessam.ch.rose@gmail.com](mailto:hessam.ch.rose@gmail.com)
 - Linkedin: [linkedin.com/in/hessam-cheraghi](https://www.linkedin.com/in/hessam-cheraghi/)
-- My Resume: [hessamcheraghi.github.io/resume/](https://hessamcheraghi.github.io/resume/)
 
 ## 📚 My Tech Stack:
 
